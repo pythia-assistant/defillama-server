@@ -18763,7 +18763,7 @@ const data4: Protocol[] = [
     symbol: "ETHFI",
     url: "https://www.ether.fi/refer/04bb2542",
     description: "Take control of your crypto. Save, grow, and spend. Start now at www.ether.fi",
-    chain: "Optimism",
+    chain: "Scroll",
     logo: `${baseIconsUrl}/etherfi-borrowing-market.fi.jpg`,
     audits: "0",
     gecko_id: null,
